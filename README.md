@@ -1,2 +1,3 @@
-# rubiks_cube_detector
-A 3x3 Rubik's cube detector based on computer vision approaches.
+# Rubik's Cube Detector
+
+A **3x3 Rubik's cube** detector based on **computer vision** approaches.
